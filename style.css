@@ -1,0 +1,47 @@
+body
+{
+   background-image: url("https://media.istockphoto.com/id/1471865239/vector/minimalist-and-modern-future-abstract-wavy-geometric-geometric-background-design-illustration.jpg?s=612x612&w=0&k=20&c=OTWaXW8J9JF_lfBMTssKxJIfC2c6iJKb3ELuloCDqaM=");
+   background-repeat: no-repeat;
+   background-repeat: no-repeat;
+  background-size: 1380px 750px;
+}
+.login_div1
+{
+    float: none;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+
+
+}
+#btn_Log
+
+{
+    border-width: 2px;
+    border-color: black;
+}
+#title
+{
+    font-size: 60px;
+    font-weight: bold;
+
+}
+#output
+{
+    background-color: white;
+    border-radius: 10px;
+    float: none;
+    border-top: 10px solid black;
+    padding: 15px;
+
+}
+#lbl-sent
+{
+    font-size: 20px;
+}
+#player1_name,#player2_name
+{
+    margin-left: 8px;
+    display: inline-block;
+    font-weight: bold;
+}
